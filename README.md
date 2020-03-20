@@ -6,8 +6,10 @@ IMMC 2020 has its task on predicting the behaviour of shoppers during a flash sa
 
 This repository contains code that conducts a Python 3.7 simulation ot meet the requirements of the task.
 
+## Information About Simulation
+Please read the full report in /Documents/TemaekJuniorCollege_TeamReport2_2020.pdf for information
+
 ## Organisation of Repository
-"IMMC Code.ipynb" contains initial code as a back up (deprecated)
 "IMMC Code 2.ipynb" contains code to run a simulation with debugging output
 
 "IMMC Layout Evaluation Code.ipynb" contains code that runs a simulation and nicely presents the output variables of a test layout.
