@@ -17,4 +17,4 @@ This repository contains code that conducts a Python 3.7 simulation ot meet the 
 
 ## Dependencies
 Python 3.7+ is required to run the simulation. The required python libraries can be installed using
-</pre>pip3 install -r requirements.txt</pre>
+<pre>pip3 install -r requirements.txt</pre>
