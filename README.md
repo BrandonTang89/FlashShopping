@@ -1,8 +1,18 @@
 # FlashShopping
 Code for IMMC 2020
 
+IMMC 2020 has its task on predicting the behaviour of shoppers during a flash sale and the level of damage to the products that these behaviours cause. Furthermore, participants are tasked to come up with a new store layout to reduce the level of damage to the shop.
+*More information available in at /Documents/2020_IMMC_Problem.pdf*
+
+This repository contains code that conducts a Python 3.7 simulation ot meet the requirements of the task.
+
+## Organisation of Repository
+"IMMC Code.ipynb" contains initial code as a back up (deprecated)
 "IMMC Code 2.ipynb" contains code to run a simulation with debugging output
+
 "IMMC Layout Evaluation Code.ipynb" contains code that runs a simulation and nicely presents the output variables of a test layout.
+
+"Store Layout Generator.ipynb" contains code that generates layouts following Figure 1 but with the "Appliances" and the "TV and Home Theatre" sections being swapped to various places.
 
 
 ## Dependencies
