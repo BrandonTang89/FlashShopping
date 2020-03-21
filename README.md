@@ -9,6 +9,8 @@ This repository contains code that conducts a Python 3.7 simulation ot meet the 
 ## Information About Simulation
 Please read the full report in /Documents/TemaekJuniorCollege_TeamReport2_2020.pdf for information
 
+The simulation conducted is of shoppers walking to grab products off shelves during flash sale. We use the A* algorithm to simulate the shoppers and monitor their movements in terms of the size of products they purchase as well as the price of items they purchase to get an accurate map of where in the shop exist a high density of shoppers.
+
 ## Organisation of Repository
 "IMMC Code 2.ipynb" contains code to run a simulation with debugging output
 
